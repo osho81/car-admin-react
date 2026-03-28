@@ -1,3 +1,8 @@
+# Car Rental Application
+This is frontend for the overall Car Rental Application (which is a practise project).
+See all related (backend) parts here: [car-rental-v100 (this backend rest api project)](https://github.com/osho81/car-rental-v100)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
